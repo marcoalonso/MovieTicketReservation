@@ -118,6 +118,6 @@ struct Ticket: View {
 
 struct Ticket_Previews: PreviewProvider {
     static var previews: some View {
-        Ticket( height: .constant(0))
+        Ticket( height: .constant(5))
     }
 }
