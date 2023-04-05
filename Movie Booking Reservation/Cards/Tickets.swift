@@ -120,8 +120,7 @@ struct InfiniteStackView: View {
         }
     }
     
-    ///Continuar en min 25:30
-    /// https://www.youtube.com/watch?v=EkcKeGQm3_U&t=166s
+    
     
 }
 
