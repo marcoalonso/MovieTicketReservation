@@ -35,6 +35,7 @@ struct ContentView: View {
             
             CustomTabBar(currentTab: $currentTab)
         }
+        .ignoresSafeArea(.keyboard)
     }
 }
 

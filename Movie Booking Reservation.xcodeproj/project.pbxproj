@@ -23,6 +23,7 @@
 		6CDBE1CF29D6718F0006A516 /* Ticket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDBE1CE29D6718F0006A516 /* Ticket.swift */; };
 		6CDBE1D129D675820006A516 /* utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDBE1D029D675820006A516 /* utils.swift */; };
 		6CF1C17929E6171D009E5822 /* CustomSearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF1C17829E6171D009E5822 /* CustomSearchBar.swift */; };
+		6CF1C17B29E61A40009E5822 /* ScrollSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF1C17A29E61A40009E5822 /* ScrollSection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		6CDBE1CE29D6718F0006A516 /* Ticket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ticket.swift; sourceTree = "<group>"; };
 		6CDBE1D029D675820006A516 /* utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = utils.swift; sourceTree = "<group>"; };
 		6CF1C17829E6171D009E5822 /* CustomSearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSearchBar.swift; sourceTree = "<group>"; };
+		6CF1C17A29E61A40009E5822 /* ScrollSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollSection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				6CDBE1C829D66F360006A516 /* CircleBackground.swift */,
 				6C1AA0B829DD023900B31FD7 /* CustomTabBar.swift */,
 				6CF1C17829E6171D009E5822 /* CustomSearchBar.swift */,
+				6CF1C17A29E61A40009E5822 /* ScrollSection.swift */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 			files = (
 				6CF1C17929E6171D009E5822 /* CustomSearchBar.swift in Sources */,
 				6C1AA0B729DD012900B31FD7 /* TabData.swift in Sources */,
+				6CF1C17B29E61A40009E5822 /* ScrollSection.swift in Sources */,
 				6CDBE1BF29D66B900006A516 /* TicketView.swift in Sources */,
 				6CA045C429E471CA00194997 /* HomeView.swift in Sources */,
 				6C5039C229D7E0F4003F4CE2 /* Tickets.swift in Sources */,
