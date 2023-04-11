@@ -10,7 +10,7 @@ import SwiftUI
 struct CustomTabBar: View {
     @Binding var currentTab: Tab
     
-    ///Continuar en min 35:00
+    ///Continuar en min 42:00
     /// https://www.youtube.com/watch?v=EkcKeGQm3_U&t=166s
     var backgroundColors = [
         Color("purple"),
